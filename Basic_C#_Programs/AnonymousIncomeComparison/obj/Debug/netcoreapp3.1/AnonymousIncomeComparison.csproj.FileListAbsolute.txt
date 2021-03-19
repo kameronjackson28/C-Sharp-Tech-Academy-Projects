@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\bin\Debug\netcoreapp3.1\AnonymousIncomeComparison.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\bin\Debug\netcoreapp3.1\AnonymousIncomeComparison.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\bin\Debug\netcoreapp3.1\AnonymousIncomeComparison.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\bin\Debug\netcoreapp3.1\AnonymousIncomeComparison.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\bin\Debug\netcoreapp3.1\AnonymousIncomeComparison.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\bin\Debug\netcoreapp3.1\AnonymousIncomeComparison.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.genruntimeconfig.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\AnonymousIncomeComparison\obj\Debug\netcoreapp3.1\AnonymousIncomeComparison.csprojAssemblyReference.cache
