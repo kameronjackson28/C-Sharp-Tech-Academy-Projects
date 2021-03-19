@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\bin\Debug\netcoreapp3.1\MathAndComparisonOps.exe
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\bin\Debug\netcoreapp3.1\MathAndComparisonOps.deps.json
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\bin\Debug\netcoreapp3.1\MathAndComparisonOps.runtimeconfig.json
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\bin\Debug\netcoreapp3.1\MathAndComparisonOps.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\bin\Debug\netcoreapp3.1\MathAndComparisonOps.dll
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\bin\Debug\netcoreapp3.1\MathAndComparisonOps.pdb
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.AssemblyInfo.cs
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.dll
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.pdb
+C:\Users\Kameron Jackson\source\repos\MathAndComparisonOps\obj\Debug\netcoreapp3.1\MathAndComparisonOps.genruntimeconfig.cache
