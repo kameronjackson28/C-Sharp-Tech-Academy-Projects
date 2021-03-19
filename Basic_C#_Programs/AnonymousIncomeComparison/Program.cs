@@ -12,14 +12,14 @@ namespace AnonymousIncomeComparison
             Console.WriteLine("Person 1");
             // Prints Hourly Rate? to console.
             Console.WriteLine("Hourly Rate?");
-            // assigns an integer value to the variable Hourly of 25
-            int Hourly = 25;
+            // assigns an integer value to the variable Hourly 
+            int Hourly = Convert.ToInt32(Console.ReadLine());
             //Prints that variable to console
             Console.WriteLine(Hourly);
             //Prints Hours worked per week? to console.
             Console.WriteLine("Hours worked per week?");
-            // assigns an integer value to the variable hoursPerWeek of 45
-            int hoursPerWeek = 45;
+            // assigns an integer value to the variable hoursPerWeek 
+            int hoursPerWeek = Convert.ToInt32(Console.ReadLine()); 
             //Prints the variable to console
             Console.WriteLine(hoursPerWeek);
 
@@ -27,14 +27,14 @@ namespace AnonymousIncomeComparison
             Console.WriteLine("Person 2");
             // Prints Hourly Rate? to console.
             Console.WriteLine("Hourly Rate?");
-            // assigns an integer value to the variable hourRate of 45
-            int hourRate = 45;
+            // assigns an integer value to the variable hourRate 
+            int hourRate = Convert.ToInt32(Console.ReadLine());
             //Prints that variable to console
             Console.WriteLine(hourRate);
             //Prints Hours worked per week? to console.
             Console.WriteLine("Hours worked per week?");
-            // assigns an integer value to the variable hoursWeek of 35
-            int hoursWeek = 35;
+            // assigns an integer value to the variable hoursWeek 
+            int hoursWeek = Convert.ToInt32(Console.ReadLine());
             //Prints the variable to console
             Console.WriteLine(hoursWeek);
 
