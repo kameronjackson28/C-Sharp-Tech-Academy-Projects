@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.genruntimeconfig.cache
