@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\bin\Debug\netcoreapp3.1\ArraySubmission.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\ArraySubmission\obj\Debug\netcoreapp3.1\ArraySubmission.genruntimeconfig.cache
