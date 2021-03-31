@@ -54,23 +54,27 @@ class Program
             Console.WriteLine("Count = {0}", secondnum);
             secondnum++;
         }
-
+    
 
 
         List<string> newString = new List<string>() {"Kinsey", "Claire", "Jacobi", "Jill", "Yuki", "Cindy"};
-        Console.WriteLine("Enter search keyword(s) or letter(s) here:");
-        
+        Console.WriteLine("Enter search keyword(s) here:");
+        string search = Console.ReadLine();
 
-        foreach(string k in newString)
+        foreach (string l in newString)
         {
-            string search = Console.ReadLine();
-            if (k == search)
+            if (l == search)
             {
-                Console.WriteLine("Here are your results: " );
+                Console.WriteLine("Here are your results:" + l);
+                
+            }
+            
+            else
+            {
+                Console.WriteLine("Please restart program and choose a matching keyword(s), remember keywords are case sensitive.");
+                    break;
             }
         }
-
-
 
     }
     }
