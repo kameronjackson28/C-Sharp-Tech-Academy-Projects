@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\bin\Debug\netcoreapp3.1\SubmitAssignment.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\bin\Debug\netcoreapp3.1\SubmitAssignment.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\bin\Debug\netcoreapp3.1\SubmitAssignment.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\bin\Debug\netcoreapp3.1\SubmitAssignment.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\bin\Debug\netcoreapp3.1\SubmitAssignment.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\bin\Debug\netcoreapp3.1\SubmitAssignment.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\SubmitAssignment\obj\Debug\netcoreapp3.1\SubmitAssignment.genruntimeconfig.cache
