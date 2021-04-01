@@ -142,7 +142,7 @@ class Program
             else
             {
                 //printing "This string has not yet appeared" to console.
-                Console.WriteLine("This string has not yet appeared");
+                Console.WriteLine("This string has not yet appeared" + n);
             }
         }
 
