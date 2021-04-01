@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmission.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmission.genruntimeconfig.cache

@@ -14,7 +14,7 @@ namespace StringsAndIntegersSubmission
            foreach( int n in first)
             {
                 int test = n / user;
-                Console.
+                Console.WriteLine(test);
                 
             }
 
