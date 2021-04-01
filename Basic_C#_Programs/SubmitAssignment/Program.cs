@@ -141,7 +141,7 @@ class Program
             //when or if the "if" statement isn't true the else statement comes into effect
             else
             {
-                //printing "This string has not yet appeared" to console.
+                //printing "This string has not yet appeared" and the string next to that to console.
                 Console.WriteLine("This string has not yet appeared" + n);
             }
         }
