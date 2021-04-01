@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 class Program
     {
@@ -21,7 +22,7 @@ class Program
             //prints user input to the end of each item in the array to console.
             Console.WriteLine(first[s]);
         }
-
+        Console.ReadLine();
 
         // assigns 0 to int variable one.
         int one = 0;
@@ -41,6 +42,7 @@ class Program
             }
         }
 
+        Console.ReadLine();
 
 
         //assigns 25 value to int variable firstnum
@@ -58,6 +60,7 @@ class Program
         {
 
         }
+        Console.ReadLine();
 
 
 
@@ -70,7 +73,8 @@ class Program
             Console.WriteLine("Count = {0}", secondnum);
             secondnum++;
         }
-    
+        Console.ReadLine();
+
 
         //creates a list of strings.
         List<string> newString = new List<string>() {"Kinsey", "Claire", "Jacobi", "Jill", "Yuki", "Cindy"};
@@ -81,10 +85,10 @@ class Program
 
 
         //creates a foreach loop iterating through all items in list
-        foreach (string i in newString)
+        for( int i = 0; i < newString.Count; i++)
         {
             //creates if statement comparing user's input(search) to "i".
-            if (i == search)
+            if (newString[i] == search)
             {
                 //if results match search "Here are your results" plus the matching results are printed to console.
                 Console.WriteLine("Here are your results:" + i);
@@ -100,6 +104,8 @@ class Program
             }
 
         }
+        Console.ReadLine();
+
 
         //creates a new list of strings with identical items.
         List<string> names = new List<string>() { "Abby", "Gibbs", "Dr.Mallard", "Gibbs", "Abby", "Dr.Mallard" };
@@ -109,45 +115,51 @@ class Program
         string isSearch = Console.ReadLine();
 
         // creates a foreach statement iterating through the list
-        foreach(string k in names)
+        for(int n = 0; n < names.Count; n++ )
         {
-           //creates if statement comparing the items in the list to user's input
-           if(k == isSearch)
+            //creates if statement comparing the items in the list to user's input
+            if (names[n] == isSearch)
             {
                 //if the user input and items on the list are a match, the console will display the results
-                Console.WriteLine("Here are your results:" + k);
-                
+                Console.WriteLine("Here are your results:" + n);
+
             }
 
-           //otherwise it will let the user know that their input is invalid. 
+            //otherwise it will let the user know that their input is invalid. 
             else
             {
                 Console.WriteLine("Your input is invalid.");
-            }
-
+            }       
         }
-        //creates a new list of strings
-        List<string> newnames = new List<string>() { "Jesus", "Joseph", "Mary", "Wisemen", "Jesus" };
+        Console.ReadLine();
 
+        //creates a new list of strings
+        List<string> newnames = new List<string>() { "Jill", "Joe", "Joe", "Jack", "Joe" };
+        //creates a blank string list
+        List<string> newnames1 = new List<string>();
         //creates a foreach loop iterating through each string in the list
-        foreach(string n in newnames)
+        foreach (string name in newnames)
         {
-            //creates an if statement stating that if any of the items in the list compare to "Jesus"
-            if(n == "Jesus")
+            //creates if statement and if the blank list doesn't contain keyword 
+            if(!newnames1.Contains(name))
             {
-                //print to console what's in parentheses plus the name that has already appeared
-                Console.WriteLine("This string has already appeared" + n);
+                //it adds to the blank list
+                newnames1.Add(name);
+                //and writes this string has not yet appeared
+                Console.WriteLine("This string has not yet appeared " + name);
+
             }
-            //when or if the "if" statement isn't true the else statement comes into effect
             else
             {
-                //printing "This string has not yet appeared" and the string next to that to console.
-                Console.WriteLine("This string has not yet appeared" + n);
+                //if it is in the list, This string has already appeared prints to console.
+                Console.WriteLine("This string has already appeared " + name);
+                
             }
         }
+        Console.ReadLine();
 
 
 
     }
-    }
+}
 
