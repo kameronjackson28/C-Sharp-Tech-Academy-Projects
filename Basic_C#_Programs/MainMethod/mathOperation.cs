@@ -16,11 +16,11 @@ namespace MainMethod
             return (y * 7);
         }
 
-        public static string myMath(string i)
+        public static string myMath(string z)
         {
-            int z = Convert.ToInt32(i);
+            int a = Convert.ToInt32(z);
 
-            return z / 6;
+            return (a / 6);
         }
     }
 }
