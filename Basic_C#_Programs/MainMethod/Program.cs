@@ -29,9 +29,9 @@ namespace MainMethod
 
             mathOperation convert = new mathOperation();
 
-            string i = "five";
+            string z = "five";
 
-            string myConvert = mathOperation.myMath(i);
+            string myConvert = mathOperation.myMath(a);
 
 
         }
