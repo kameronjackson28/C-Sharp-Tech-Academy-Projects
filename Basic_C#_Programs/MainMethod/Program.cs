@@ -20,18 +20,20 @@ namespace MainMethod
             mathOperation multiply = new mathOperation();
             //assigns a decimal value to the variable y and
             //uses the built in decimal.Round method to convert the decmial to an integer
-            decimal y = decimal.Round(6.7m);
+            decimal y = 6.79m;
             //assigns method myMath as a decimal variable incorporating variable y
             decimal myMultiply = mathOperation.myMath(y);
             //prints the variable myMultiply to console.
             Console.WriteLine(myMultiply);
 
-
+            //instantiates mathOperation class 
             mathOperation convert = new mathOperation();
-
-            string z = "five";
-
-            string myConvert = mathOperation.myMath(a);
+            //assigns 5 as the string variable z
+            string z = "5";
+            //assigns method myMath as an int variable of myConvert introducing variable z.
+            int myConvert = mathOperation.myMath(z);
+            //prints variable myConvert to console.
+            Console.WriteLine(myConvert);
 
 
         }
