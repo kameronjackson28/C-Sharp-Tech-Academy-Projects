@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
