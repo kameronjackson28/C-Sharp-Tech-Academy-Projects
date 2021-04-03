@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Methods
 {
@@ -6,7 +7,9 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int userNum = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter a number:");
+            Console.WriteLine(Operators.add());
         }
     }
 }
