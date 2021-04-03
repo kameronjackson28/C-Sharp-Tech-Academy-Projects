@@ -6,7 +6,21 @@ namespace MainMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            mathOperation math = new mathOperation();
+            int x = 7;
+
+            int sum = mathOperation.myMath(x);
+
+            Console.WriteLine(sum);
+
+
+            mathOperation multiply = new mathOperation();
+            decimal y = decimal.Round(6.7m);
+           
+
+            decimal myMultiply = mathOperation.myMath(y);
+
+            Console.WriteLine(myMultiply);
         }
     }
 }
