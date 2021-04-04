@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\netcoreapp3.1\MethodSubmission.genruntimeconfig.cache
