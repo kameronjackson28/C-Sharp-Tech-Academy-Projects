@@ -28,7 +28,7 @@ namespace ClassSubmission
             division.mathMultiply(out x);
 
           
-            //assigns called method using 55 as parameter to variable sum
+            //assigns called method using as parameter to variable sum
             int sum = Division.myMath(55);
             //prints variable sum to screen
             Console.WriteLine(sum);
