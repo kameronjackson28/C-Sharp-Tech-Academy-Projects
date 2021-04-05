@@ -13,11 +13,8 @@ namespace AbstractClass
         public string lastName { get; set; }
 
         //creates SayName method
-        public virtual void SayName()
-        {
-            //writes person's full name to console when SayName method is called
-            Console.WriteLine("Name: " + firstName  + lastName);
-        }
+        public abstract void SayName();
+        
 
     }
 }

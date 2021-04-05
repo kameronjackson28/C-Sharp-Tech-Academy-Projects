@@ -6,6 +6,9 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
+            //uses polymorphism to create new Iquittable object
+            IQuittable quit = new Employee();
+            
             //prints what's in parentheses to screen
             Console.WriteLine("Welcome to the Abstract Class Program");
 
@@ -18,6 +21,9 @@ namespace AbstractClass
 
             //Calls teh SayName method
             employee.SayName();
+
+            //calls quit method on quit object
+            quit.Quit();
         }
     }
 }
