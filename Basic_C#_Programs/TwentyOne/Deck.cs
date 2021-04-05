@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace TwentyOne
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {
