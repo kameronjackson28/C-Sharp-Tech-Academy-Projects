@@ -4,7 +4,13 @@ using System.Text;
 
 namespace AbstractClass
 {
-    class Employee
+    //creates Employee class inheriting from Person class
+    public class Employee : Person
     {
+        //implements SayName method in class
+        public override void SayName()
+        {
+            base.SayName();
+        }
     }
 }
