@@ -1,14 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
+            game += player;
+            game -= player;
+            
             Deck deck = new Deck();
             deck.Shuffle(3);
 
