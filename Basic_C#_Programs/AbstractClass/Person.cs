@@ -12,6 +12,7 @@ namespace AbstractClass
         //Gives string property of lastName
         public string lastName { get; set; }
 
+
         //creates SayName method
         public abstract void SayName();
         

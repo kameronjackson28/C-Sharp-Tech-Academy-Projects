@@ -13,17 +13,24 @@ namespace AbstractClass
             Console.WriteLine("Welcome to the Abstract Class Program");
 
             //instantiates Employee class
-            Employee employee = new Employee();
+            Employee employee1 = new Employee();
             //assigns sample to employee firstName
-            employee.firstName = "Sample ";
+            employee1.firstName = "Sample ";
             //assigns student to employee lastName
-            employee.lastName = "Student";
+            employee1.lastName = "Student";
 
-            //Calls teh SayName method
-            employee.SayName();
+            employee1.iD = 90210;
 
-            //calls quit method on quit object
-            quit.Quit();
+            Employee employee2 = new Employee();
+            employee2.firstName = "Sally";
+            employee2.lastName = "Seashore";
+            employee2.iD = 54321;
+
+            ////Calls teh SayName method
+            //employee.SayName();
+
+            ////calls quit method on quit object
+            //quit.Quit();
         }
     }
 }
