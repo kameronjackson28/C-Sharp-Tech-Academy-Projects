@@ -1,0 +1,13 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\bin\Debug\netcoreapp3.1\GenParameters.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\bin\Debug\netcoreapp3.1\GenParameters.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\bin\Debug\netcoreapp3.1\GenParameters.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\bin\Debug\netcoreapp3.1\GenParameters.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\bin\Debug\netcoreapp3.1\GenParameters.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\bin\Debug\netcoreapp3.1\GenParameters.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\GenParameters\obj\Debug\netcoreapp3.1\GenParameters.genruntimeconfig.cache
