@@ -26,6 +26,8 @@ namespace AbstractClass
             employee2.lastName = "Seashore";
             employee2.iD = 54321;
 
+            Console.WriteLine(employee1 == employee2);
+
             ////Calls teh SayName method
             //employee.SayName();
 
