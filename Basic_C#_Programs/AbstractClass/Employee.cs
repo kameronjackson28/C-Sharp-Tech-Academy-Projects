@@ -5,7 +5,7 @@ using System.Text;
 namespace AbstractClass
 {
     //creates Employee class inheriting from Person class
-    public class Employee : Person, IQuittable
+    public class Employee: Person //, IQuittable
     {
 
         public int iD { get; set; }
