@@ -6,7 +6,8 @@ namespace GenParameters
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            things<string> employee = new things<string>();
+            employee.Things("Roman", "Grace", "Jill");
         }
     }
 }

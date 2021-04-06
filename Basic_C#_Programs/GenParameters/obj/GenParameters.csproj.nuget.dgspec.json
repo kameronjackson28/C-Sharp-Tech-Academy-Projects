@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kameron Jackson\\source\\repos\\GenParameters\\GenParameters.csproj": {}
+    "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\GenParameters\\GenParameters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kameron Jackson\\source\\repos\\GenParameters\\GenParameters.csproj": {
+    "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\GenParameters\\GenParameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kameron Jackson\\source\\repos\\GenParameters\\GenParameters.csproj",
+        "projectUniqueName": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\GenParameters\\GenParameters.csproj",
         "projectName": "GenParameters",
-        "projectPath": "C:\\Users\\Kameron Jackson\\source\\repos\\GenParameters\\GenParameters.csproj",
+        "projectPath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\GenParameters\\GenParameters.csproj",
         "packagesPath": "C:\\Users\\Kameron Jackson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kameron Jackson\\source\\repos\\GenParameters\\obj\\",
+        "outputPath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\GenParameters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kameron Jackson\\AppData\\Roaming\\NuGet\\NuGet.Config",

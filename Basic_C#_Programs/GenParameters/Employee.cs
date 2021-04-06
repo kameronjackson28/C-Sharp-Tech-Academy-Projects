@@ -4,7 +4,13 @@ using System.Text;
 
 namespace GenParameters
 {
-    class Employee
+    class things<T>
     {
+        public things<T> Things { get; set; }
+
+        public void things()
+        {
+            return;
+        }
     }
 }
