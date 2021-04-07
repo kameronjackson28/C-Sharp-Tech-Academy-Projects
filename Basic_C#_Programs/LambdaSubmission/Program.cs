@@ -64,20 +64,24 @@ namespace LambdaSubmission
                 employeeName = "Roman Velasco"
             });
 
+            foreach (Employee y in employee)
+            {
+                if (employee.Contains(y))
+                {
+                    employee1.Add(y);
+                    Console.WriteLine("This name is repeated");
+                    Console.ReadLine();
+                }
+            }
 
-            //foreach(Employee y in employee)
-            //{
-            //    if(employee.Contains(y))
-            //    {
-            //        employee1.Add(y);
-            //        Console.WriteLine("This name is repeated");
-            //        Console.ReadLine();
-            //    }
-            //}
+            foreach (var y in employee.Where(y => employee.Contains(y)))
+            {
+                employee1.Add(y);
+                Console.WriteLine("This name is repeated");
+                Console.ReadLine();
+            }
 
-            Employee names = employee.Find(name => name.Equals("Joe"));
-            Console.WriteLine(names);
-            Console.ReadLine();
+            
         }
     }
 }
