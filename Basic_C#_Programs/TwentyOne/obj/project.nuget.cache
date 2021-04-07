@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t8i8qYKzYJ/oXAmWZkWteO+9g4J1zyWmtrk6DX5S6/R12cE30jhdO64o/jQS9m7ZfKfwPF2G3zJxd5Kbb45Vvg==",
+  "dgSpecHash": "L3LexoVhG0Ae48hBPlUIWeFuLv92oJ7cCF7XIekC7Ih0x1sjH5GBcY9x7nMeim0Gy52mH+8egV9HvtYPOf8zvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\TwentyOne\\TwentyOne.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
