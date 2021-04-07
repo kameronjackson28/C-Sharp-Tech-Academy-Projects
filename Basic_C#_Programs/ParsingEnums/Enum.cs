@@ -6,5 +6,21 @@ namespace ParsingEnums
 {
     class Enum
     {
+        public static DaysOfWeek Parse<DaysOfWeek>(string user) where DaysOfWeek : struct;
+       
+        
+           
+        
+        
+        public enum DaysOfWeek
+        {
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday,
+            Saturday,
+            Sunday
+        }
     }
 }
