@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FCA2C93-0708-4DFC-847F-810636BF7CF6}</ProjectGuid>
+    <ProjectGuid>{1E68A2F6-179C-485E-98E9-E447306B7FD5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LambdaSubmission</RootNamespace>
-    <AssemblyName>LambdaSubmission</AssemblyName>
+    <RootNamespace>Lambda</RootNamespace>
+    <AssemblyName>Lambda</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

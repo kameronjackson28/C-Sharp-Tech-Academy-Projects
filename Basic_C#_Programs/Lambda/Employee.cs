@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LambdaSubmission
+namespace Lambda
 {
     class Employee
     {
-        public int iD { get; set; }
+        public int employeeId { get; set; }
 
-        public string employeeName{ get; set; }
+        public string employeeName { get; set; }
+
     }
 }
