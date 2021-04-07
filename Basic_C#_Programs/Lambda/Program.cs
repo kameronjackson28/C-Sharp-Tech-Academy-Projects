@@ -11,80 +11,114 @@ namespace Lambda
         static void Main(string[] args)
         {
 
-
+            //creates new list type being Employee from the Employee Class
             List<Employee> employee = new List<Employee>();
+            //Creates another new list type being Employee from Employee Class.
             List<Employee> employee1 = new List<Employee>();
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 45,
-                employeeName = "Grace Moore"
+                employeeFname = "Grace",
+                employeeLname = "Moore"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 25,
-                employeeName = "Joe Smith"
-            });
+                employeeFname = "Joe",
+                employeeLname = "Smith"
+            }) ;
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 35,
-                employeeName = "John Appleseed"
+                employeeFname = "John",
+                employeeLname = "Appleseed"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 40,
-                employeeName = "Jill Garcia"
+                employeeFname = "Jill",
+                employeeLname = "Garcia"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 42,
-                employeeName = "Leah Jackson"
+                employeeFname = "Leah",
+                employeeLname = "Jackson"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 41,
-                employeeName = "Brittany Cardelli"
+                employeeFname = "Brittany",
+                employeeLname = "Cardelli"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 43,
-                employeeName = "Kinsey Yin"
+                employeeFname = "Kinsey",
+                employeeLname = "Yin"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 85,
-                employeeName = "Joe Scuito"
+                employeeFname = "Joe",
+                employeeLname = "Scuito"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 75,
-                employeeName = "Lindsey Grayson"
+                employeeFname = "Lindsey",
+                employeeLname = "Grayson"
             });
+            //Adds value to the employee list
             employee.Add(new Employee()
             {
                 employeeId = 65,
-                employeeName = "Roman Velasco"
+                employeeFname = "Roman",
+                employeeLname = "Velasco"
             });
 
-            //foreach (Employee y in employee)
-            //{
-            //    if (employee.Contains(y))
-            //    {
-            //        employee1.Add(y);
-            //        Console.WriteLine("This name is repeated");
-            //        Console.ReadLine();
-            //    }
-                
-            //}
+            //creates a foreach loop iterating through list employee
+            foreach (Employee y in employee)
+            {
+                //if employee contains y
+                if (employee.Contains(y))
+                {
+                    //add to new list 
+                    employee1.Add(y);
+                    //prints to screen what's in parentheses
+                    Console.WriteLine("This name has been repeated");
+                    
+                }
 
-            //foreach (var y in employee.Where(y => employee.Contains(y)))
-            //{
-            //    employee1.Add(y);
-            //    Console.WriteLine("This name is repeated");
-            //    Console.ReadLine();
-            //}
+            }
+            //creates new list using lambda function to check for names in the list including Joe.
+            List<Employee> joe = employee.Where(x => x.employeeFname == "Joe").ToList();
+            //creates a foreach loop 
+            foreach (Employee emp in joe)
+            {
+                //prints to screen first and last name
+                Console.WriteLine(emp.employeeFname + emp.employeeLname);
+          
+            }
 
+            //creates new list newEmployee uses lambda to iterate through and check which employeeIds are greater than 5
             List<Employee> newEmployee = employee.Where(x => x.employeeId > 5).ToList();
-            Console.WriteLine(newEmployee);
+            //creates foreach loop iterating through the list of employees with the above requirement
+            foreach(Employee emp in newEmployee)
+            {
+                //prints those ids to screen
+                Console.WriteLine(emp.employeeId);
+               
+            }
             Console.ReadLine();
 
 
