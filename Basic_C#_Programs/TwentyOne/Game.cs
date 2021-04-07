@@ -15,7 +15,7 @@ namespace TwentyOne
         {
             foreach(Player player in Players)
                 {
-                Console.WriteLine(player.Name);s
+                Console.WriteLine(player.Name);
             }
         }
     }
