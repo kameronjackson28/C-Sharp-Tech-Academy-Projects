@@ -29,7 +29,7 @@ namespace ParsingEnums
             catch (Exception)
             {
                 //print's what's in parentheses to console.
-                Console.WriteLine("You've entered an invalid day of the week");
+                Console.WriteLine("Please enter an actual day of the week");
                 //keeps console open until usre presses a button
                 Console.ReadLine();
             }
