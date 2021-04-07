@@ -1,17 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ParsingEnums
 {
-    class Enum
+    class Enums
     {
-        public static DaysOfWeek Parse<DaysOfWeek>(string user) where DaysOfWeek : struct;
-       
-        
-           
-        
-        
+        //creates enum with days of the week as values.
         public enum DaysOfWeek
         {
             Monday,
@@ -22,5 +19,6 @@ namespace ParsingEnums
             Saturday,
             Sunday
         }
+
     }
 }

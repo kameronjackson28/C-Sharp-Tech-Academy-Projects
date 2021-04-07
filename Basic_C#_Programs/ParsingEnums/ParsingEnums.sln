@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingEnums", "ParsingEnums.csproj", "{53FCB476-68AB-42D9-AA00-DAFC04C31426}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingEnums", "ParsingEnums.csproj", "{B53C1323-7CC5-4964-A365-A913FAED2650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53FCB476-68AB-42D9-AA00-DAFC04C31426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53FCB476-68AB-42D9-AA00-DAFC04C31426}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53FCB476-68AB-42D9-AA00-DAFC04C31426}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53FCB476-68AB-42D9-AA00-DAFC04C31426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53C1323-7CC5-4964-A365-A913FAED2650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53C1323-7CC5-4964-A365-A913FAED2650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53C1323-7CC5-4964-A365-A913FAED2650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53C1323-7CC5-4964-A365-A913FAED2650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3776B671-6141-456A-A1D6-AD3B570CA131}
+		SolutionGuid = {3DBA7FAA-4B9A-4B00-A03F-F19BA9A30F14}
 	EndGlobalSection
 EndGlobal
