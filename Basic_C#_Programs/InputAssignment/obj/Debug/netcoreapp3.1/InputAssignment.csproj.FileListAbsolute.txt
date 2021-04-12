@@ -1,0 +1,12 @@
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\bin\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\InputAssignment\obj\Debug\netcoreapp3.1\InputAssignment.genruntimeconfig.cache
