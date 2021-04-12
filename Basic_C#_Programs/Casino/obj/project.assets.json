@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\DateTime\\DT.csproj",
-      "projectName": "DT",
-      "projectPath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\DateTime\\DT.csproj",
+      "projectUniqueName": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\Casino\\Casino.csproj",
+      "projectName": "Casino",
+      "projectPath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\Casino\\Casino.csproj",
       "packagesPath": "C:\\Users\\Kameron Jackson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\DateTime\\obj\\",
+      "outputPath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\Casino\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
