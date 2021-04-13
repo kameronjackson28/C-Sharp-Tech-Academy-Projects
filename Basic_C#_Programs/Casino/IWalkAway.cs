@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Casino
+namespace Casino.Interfaces
 {
     public interface IWalkAway
     {

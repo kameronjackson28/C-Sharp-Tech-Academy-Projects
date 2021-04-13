@@ -10,3 +10,16 @@ C:\Users\Kameron Jackson\source\repos\DateTime\obj\Debug\netcoreapp3.1\DT.csproj
 C:\Users\Kameron Jackson\source\repos\DateTime\obj\Debug\netcoreapp3.1\DT.dll
 C:\Users\Kameron Jackson\source\repos\DateTime\obj\Debug\netcoreapp3.1\DT.pdb
 C:\Users\Kameron Jackson\source\repos\DateTime\obj\Debug\netcoreapp3.1\DT.genruntimeconfig.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DT.exe
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DT.deps.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DT.runtimeconfig.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DT.runtimeconfig.dev.json
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DT.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\bin\Debug\netcoreapp3.1\DT.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.csprojAssemblyReference.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.AssemblyInfoInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.AssemblyInfo.cs
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.csproj.CoreCompileInputs.cache
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.dll
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.pdb
+C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\DateTime\obj\Debug\netcoreapp3.1\DT.genruntimeconfig.cache
