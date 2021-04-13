@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdw0cyqKNw/o1TMs7zFikcN+FBcIcvpyVYZGa0/8fNSJqpL9Hmql3N5Y6CgNpo0ZXLpVET0O465gsYIgtv+EWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\Constructors\\Constructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
