@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Intuit.Ipp.Data;
+using System;
 
 namespace Constructors
 {
@@ -6,7 +7,13 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            public static Employee(string name, int age)
+            {
+                name = "Kameron";
+                age = 25;
+            }
+           
+
         }
     }
 }

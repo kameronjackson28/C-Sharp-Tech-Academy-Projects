@@ -43,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IppDotNetSdkForQuickBooksApiV3": {
+              "target": "Package",
+              "version": "[14.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
