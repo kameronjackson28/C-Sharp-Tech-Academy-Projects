@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MyzXf3+dukESDR8nEIQqOZZJ/+98ZB1j/Az7M7Bow6UqrLRNxyHyTrRb96nA3HzeetiIcJ3tJguWHL1C2xJmJA==",
+  "dgSpecHash": "YUfRyCcAVnb50gFZ6sQGBOw/LU2pmpOkbnC1tatb+CUgqTMnLJCyQDeYRH1EQCd7yilgp+2djHny6MKI/lKpPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kameron Jackson\\OneDrive\\Documents\\GitHub\\C-Sharp-Tech-Academy-Projects\\Basic_C#_Programs\\Constructors\\Constructors.csproj",
   "expectedPackageFiles": [
@@ -119,10 +119,7 @@
     "C:\\Users\\Kameron Jackson\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Kameron Jackson\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512",
     "C:\\Users\\Kameron Jackson\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\Kameron Jackson\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
