@@ -6,4 +6,3 @@ C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects
 C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Casino\obj\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
-C:\Users\Kameron Jackson\OneDrive\Documents\GitHub\C-Sharp-Tech-Academy-Projects\Basic_C#_Programs\Casino\obj\Debug\netcoreapp3.1\Casino.csprojAssemblyReference.cache
