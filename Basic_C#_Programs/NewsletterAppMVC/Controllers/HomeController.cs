@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Data;
 using NewsletterAppMVC.Models;
+using System.Web;
 
 namespace NewsletterAppMVC.Controllers
 {
@@ -47,6 +48,7 @@ namespace NewsletterAppMVC.Controllers
                 }
                 return View("Success");
             }
+            
         }
 
         public ActionResult Admin()
