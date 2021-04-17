@@ -4,12 +4,13 @@
 <div class=" row no-gutters m-3">
     <div class=" card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
         <div class="card-header text-center">
-            <h5 class="m-0">Sign-ups</h5>
+            <h5 class="m-0">Final Quote Info</h5>
         </div>
         <div class="card-body">
-            using
-            @foreach (var insuree in Model)
-            {
+           
+         @foreach(var insuree in Model)
+         { 
+
                 <input type="hidden" name="Id" value="@insuree.Id" />
                 <div class="row mb-3">
                     <div class="col">
@@ -21,9 +22,12 @@
                     <div class="col">
                         @insuree.EmailAddress
                     </div>
-                   
+                    <div class="col">
+                        @insuree.EmailAddress
+                    </div>
                 </div>
-            }
+
+         }
         </div>
 
     </div>
