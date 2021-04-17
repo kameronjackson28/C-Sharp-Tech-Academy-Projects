@@ -93,7 +93,7 @@ namespace CInsurance.Controllers
             }
             if (insuree.DUI == true)
             {
-                insuree.Quote += 25 / 100;
+                insuree.Quote += 25/100;
             }
             if(insuree.CoverageType == true)
             {
@@ -106,7 +106,7 @@ namespace CInsurance.Controllers
                 return RedirectToAction("Index");
             }
 
-            return View(insuree);
+            return View();
         }
 
         // GET: Insuree/Edit/5
@@ -173,6 +173,11 @@ namespace CInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
         }
     }
 }
