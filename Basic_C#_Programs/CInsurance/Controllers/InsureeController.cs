@@ -93,11 +93,11 @@ namespace CInsurance.Controllers
             }
             if (insuree.DUI == true)
             {
-                insuree.Quote += 25/100;
+                insuree.Quote += (25/100);
             }
             if(insuree.CoverageType == true)
             {
-                insuree.Quote +=  50 / 100;
+                insuree.Quote +=  (50/100);
             }
             if (ModelState.IsValid)
             {
