@@ -2,8 +2,9 @@
 This repository includes a multitude of C# and .Net code, from the fundamentals to working projects.
 Some of these projects are:
 * CInsurance 
-*NewsletterAppMVC
-*TwentyOne & Casino
+* NewsletterAppMVC
+* TwentyOne & Casino
+
 
 CInsurance:
 This product is an Mvc app that take in user input and similar to a car insurance website, calculates a quote based on information.
